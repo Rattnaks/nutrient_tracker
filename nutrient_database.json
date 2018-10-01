@@ -1,0 +1,311 @@
+
+[
+  {
+		"Food": "Chicken breast",
+		"Protein (g)": "26",
+		"Carbs": "0",
+		"Fats": "3",
+		"Calories": "130"
+	},
+	{
+		"Food": "Turkey breast",
+		"Protein (g)": "22",
+		"Carbs": "0",
+		"Fats": "8",
+		"Calories": "160"
+	},
+	{
+		"Food": "Salmon",
+		"Protein (g)": "27",
+		"Carbs": "0",
+		"Fats": "14",
+		"Calories": "235"
+	},
+	{
+		"Food": "Tilapia",
+		"Protein (g)": "23",
+		"Carbs": "0",
+		"Fats": "2",
+		"Calories": "110"
+	},
+	{
+		"Food": "Shrimp",
+		"Protein (g)": "24",
+		"Carbs": "0",
+		"Fats": "2",
+		"Calories": "115"
+
+	},
+	{
+		"Food": "Tuna",
+		"Protein (g)": "20",
+		"Carbs": "0",
+		"Fats": "3",
+		"Calories": "105"
+
+	},
+	{
+		"Food": "Egg whites",
+		"Protein (g)": "4",
+		"Carbs": "0",
+		"Fats": "0",
+		"Calories": "17"
+
+	},
+	{
+		"Food": "Almond milk",
+		"Protein (g)": "1",
+		"Carbs": "1",
+		"Fats": "0",
+		"Calories": "30"
+
+	},
+	{
+		"Food": "Greek yogurt",
+		"Protein (g)": "8",
+		"Carbs": "17",
+		"Fats": "0",
+		"Calories": "100"
+
+	},
+	{
+		"Food": "cottage cheese",
+		"Protein (g)": "16",
+		"Carbs": "4",
+		"Fats": "1",
+		"Calories": "90"
+
+	},
+	{
+		"Food": "apple",
+		"Protein (g)": "0",
+		"Carbs": "20",
+		"Fats": "0",
+		"Calories": "80"
+
+	},
+	{
+		"Food": "banana",
+		"Protein (g)": "1",
+		"Carbs": "26",
+		"Fats": "0",
+		"Calories": "110"
+
+	},
+	{
+		"Food": "blueberries",
+		"Protein (g)": "0",
+		"Carbs": "10",
+		"Fats": "0",
+		"Calories": "45"
+
+	},
+	{
+		"Food": "cherries",
+		"Protein (g)": "1",
+		"Carbs": "22",
+		"Fats": "0",
+		"Calories": "90"
+
+	},
+	{
+		"Food": "cranberries",
+		"Protein (g)": "9",
+		"Carbs": "6",
+		"Fats": "0",
+		"Calories": "25"
+
+	},
+	{
+		"Food": "grapefruit",
+		"Protein (g)": "0",
+		"Carbs": "22",
+		"Fats": "0",
+		"Calories": "60"
+	},
+	{
+		"Food": "orange",
+		"Protein (g)": "2",
+		"Carbs": "22",
+		"Fats": "0",
+		"Calories": "95"
+	},
+	{
+		"Food": "peach",
+		"Protein (g)": "0",
+		"Carbs": "10",
+		"Fats": "0",
+		"Calories": "40"
+	},
+	{
+		"Food": "pear",
+		"Protein (g)": "0",
+		"Carbs": "25",
+		"Fats": "0",
+		"Calories": "100"
+	},
+	{
+		"Food": "raspberries",
+		"Protein (g)": "1",
+		"Carbs": "14",
+		"Fats": "0",
+		"Calories": "60"
+	},
+	{
+		"Food": "strawberries",
+		"Protein (g)": "1",
+		"Carbs": "11",
+		"Fats": "0",
+		"Calories": "45"
+	},
+	{
+		"Food": "asparagus",
+		"Protein (g)": "2",
+		"Carbs": "4",
+		"Fats": "0",
+		"Calories": "25"
+	},
+	{
+		"Food": "broccolli",
+		"Protein (g)": "3",
+		"Carbs": "8",
+		"Fats": "0",
+		"Calories": "45"
+	},
+	{
+		"Food": "bell peppers",
+		"Protein (g)": "0",
+		"Carbs": "5",
+		"Fats": "0",
+		"Calories": "20"
+	},
+	{
+		"Food": "onion",
+		"Protein (g)": "1",
+		"Carbs": "7",
+		"Fats": "0",
+		"Calories": "30"
+	},
+	{
+		"Food": "spinach",
+		"Protein (g)": "1",
+		"Carbs": "1",
+		"Fats": "0",
+		"Calories": "10"
+	},
+	{
+		"Food": "tomato",
+		"Protein (g)": "1",
+		"Carbs": "3",
+		"Fats": "0",
+		"Calories": "15"
+	},
+	{
+		"Food": "celery",
+		"Protein (g)": "0",
+		"Carbs": "2",
+		"Fats": "0",
+		"Calories": "10"
+	},
+	{
+		"Food": "green beans",
+		"Protein (g)": "1",
+		"Carbs": "5",
+		"Fats": "0",
+		"Calories": "25"
+	},
+	{
+		"Food": "sweet potato",
+		"Protein (g)": "9",
+		"Carbs": "28",
+		"Fats": "0",
+		"Calories": "120"
+	},
+	{
+		"Food": "lentils",
+		"Protein (g)": "9",
+		"Carbs": "20",
+		"Fats": "0",
+		"Calories": "115"
+	},
+	{
+		"Food": "bok choy",
+		"Protein (g)": "1",
+		"Carbs": "2",
+		"Fats": "0",
+		"Calories": "10"
+
+	},
+	{
+		"Food": "spring mix (doles)",
+		"Protein (g)": "2",
+		"Carbs": "3",
+		"Fats": "0",
+		"Calories": "20"
+
+	},
+	{
+		"Food": "cauliflower (raw)",
+		"Protein (g)": "2",
+		"Carbs": "5.3",
+		"Fats": "0",
+		"Calories": "23"
+
+	},
+	{
+		"Food": "edamame",
+		"Protein (g)": "11",
+		"Carbs": "13",
+		"Fats": "4.5",
+		"Calories": "140"
+
+	},
+	{
+		"Food": "black beans",
+		"Protein (g)": "6",
+		"Carbs": "19",
+		"Fats": "0",
+		"Calories": "100"
+
+	},
+	{
+		"Food": "brown rice",
+		"Protein (g)": "4",
+		"Carbs": "43",
+		"Fats": "2",
+		"Calories": "205"
+
+	},
+	{
+		"Food": "oatmeal",
+		"Protein (g)": "3",
+		"Carbs": "12",
+		"Fats": "1",
+		"Calories": "70"
+
+	},
+	{
+		"Food": "almonds",
+		"Protein (g)": "6",
+		"Carbs": "7",
+		"Fats": "15",
+		"Calories": "170"
+
+	},
+	{
+		"Food": "pistachios",
+		"Protein (g)": "6",
+		"Carbs": "7",
+		"Fats": "13",
+		"Calories": "170"
+
+	},
+	{
+		"Food": "peanuts",
+		"Protein (g)": "6",
+		"Carbs": "5",
+		"Fats": "13",
+		"Calories": "160"
+
+	}
+]
